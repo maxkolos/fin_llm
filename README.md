@@ -3,7 +3,8 @@
 This repository contains example Colab notebooks for prototyping on-premise deployments of open-source LLM systems.
 
 ## Projects 
-* [vLLM_server.ipynb](./vLLM_server.ipynb): Deploying a vLLM server for high-throughput, low-latency LLM serving. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1su6Psmo5S7RDDLSH-6QQGxD-Lje7Dneb)
+* [vLLM_server.ipynb](./vLLM_server.ipynb): Deploying a vLLM server for high-throughput, low-latency LLM serving. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxkolos/fin_llm/blob/vllm-v1/vLLM_server.ipynb)
+* [multi_agent_system.ipynb](./multi_agent_system.ipynb): Multi-agent LLM system. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxkolos/fin_llm/blob/vllm-v1/multi_agent_system.ipynb)
 
 ## How to Use
 
